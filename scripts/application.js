@@ -5,4 +5,5 @@
 //= require common
 //= require login
 //= require parallax
+//= require scratch
 
